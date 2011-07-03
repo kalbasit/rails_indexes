@@ -1,0 +1,5 @@
+module TechnoGate
+  module RailsIndexes
+    VERSION = "0.0.1"
+  end
+end
